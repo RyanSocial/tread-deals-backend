@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+*.env
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
+*.egg-info/
+*.eggs/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Configuration files
+*.sqlite3
+*.db
